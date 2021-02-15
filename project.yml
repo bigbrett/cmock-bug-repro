@@ -25,7 +25,6 @@
     - +:test/**
     - -:test/support
   :source:
-    - app/myapp/**
     - common/**
 
 :defines:
